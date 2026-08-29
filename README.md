@@ -1,2 +1,2 @@
 # Bilibili-Share-Files
-Blazkness于Bilibili分享的文件
+B站Blazkness分享的文件
