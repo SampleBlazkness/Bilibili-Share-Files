@@ -1,0 +1,22 @@
+{
+  "activeAccountLocalId": "[UUID]",
+  "accounts": {
+    "": {
+      "accessToken": "[UUID]",
+      "accessTokenExpiresAt": "2000-01-01T00:00:00Z",
+      "eligibleForMigration": false,
+      "hasMultipleProfiles": false,
+      "legacy": false,
+      "persistent": true,
+      "localId": "[UUID]",
+      "refreshToken": "[UUID]",
+      "minecraftProfile": {
+        "id": "[UUID]",
+        "name": "[UN]"
+      },
+      "remoteId": "[UUID]",
+      "type": "Xbox",
+      "username": "[UN]"
+    }
+  }
+}
