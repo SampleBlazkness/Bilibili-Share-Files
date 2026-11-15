@@ -1,7 +1,7 @@
 {
   "activeAccountLocalId": "[UUID]",
   "accounts": {
-    "": {
+    "[UUID]": {
       "accessToken": "[UUID]",
       "accessTokenExpiresAt": "2000-01-01T00:00:00Z",
       "eligibleForMigration": false,
